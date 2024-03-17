@@ -22,7 +22,6 @@
   "dependencies": {
     "@libphamton/api-chatbot": "^1.0.1",
     "@libphamton/api-client-x": "^1.0.7",
-    "@libphamton/api-method": "^1.0.0",
     "@libphamton/api-openai": "^1.0.3",
     "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
