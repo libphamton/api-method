@@ -1,0 +1,39 @@
+{
+  "name": "@libphamton/api-edge",
+  "version": "1.0.0",
+  "description": "connect to api tiwtter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fb-group"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/libphamton/api-edge.git"
+  },
+  "author": "libphamton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libphamton/api-edge/issues"
+  },
+  "homepage": "https://github.com/libphamton/api-edge#readme",
+  "dependencies": {
+    "@libphamton/api-chatbot": "^1.0.1",
+    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/api-edge": "^1.0.0",
+    "@libphamton/api-openai": "^1.0.3",
+    "@libphamton/chatfanpage": "^1.0.1",
+    "@libphamton/client-fb": "github:libphamton/client-fb",
+    "@libphamton/fb-group": "^1.0.0",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
+    "@oraliepham/api-facebooknew": "^1.0.5",
+    "@scdb/simple-http": "^1.0.4",
+    "@utilcode/simple-http": "^1.0.0",
+    "api-chat-fanpage-facebook": "^1.2.0",
+    "api-chatfb": "^1.0.7",
+    "api-chatfb-test": "^1.0.6",
+    "api-facebooknew": "^1.0.4"
+  }
+}
